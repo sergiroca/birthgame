@@ -1,4 +1,4 @@
-# birth-front
+## birth-front
 
 ## Project setup
 ```
